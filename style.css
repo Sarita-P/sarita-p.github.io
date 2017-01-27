@@ -31,6 +31,10 @@ header .title {
 	padding: 10px;
 }
 
+header .body {
+	text-align: center;
+	
+}
 /*Select the 'a' elements inside the nav element.*/
 nav a {
 	/*Remove the underlining from links.*/
